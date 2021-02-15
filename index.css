@@ -14,9 +14,9 @@ body{
 background-color:#3BF39B;
 }
 @keyframes nishi{
-0%{color:Orange;right:600px;font-family:'Fredoka One',cursive;}
+0%{color:Orange;right:300px;font-family:'Fredoka One',cursive;}
 25%{color:Red;left:600px;font-family:'Permanent Marker',cursive;}
-50%{color:Crimson;right:600px;font-family:'Dosis',cursive;}
-75%{color:Coral;left:600px;font-family:'Satisfy',cursive;}
+50%{color:Crimson;right:900px;font-family:'Dosis',cursive;}
+75%{color:Coral;left:1200px;font-family:'Satisfy',cursive;}
 100%{color:Fuchsia;}
 }
