@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Permanent+Marker&family=Sarina&family=Satisfy&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
 div.sushi{
 position:relative;
-left:120px;
-top:400px;
 font-size:30px;
 font-family:'Abril Fatface',cursive;
 animation-name:nishi;
@@ -15,9 +14,9 @@ body{
 background-color:#3BF39B;
 }
 @keyframes nishi{
-0%{color:Orange;bottom:300px;font-family:'Fredoka One',cursive;}
-25%{color:Red;left:300px;font-family:'Permanent Marker',cursive;}
-50%{color:Crimson;top:300px;font-family:'Dosis',cursive;}
-75%{color:Coral;right:300px;font-family:'Satisfy',cursive;}
+0%{color:Orange;right:600px;font-family:'Fredoka One',cursive;}
+25%{color:Red;left:600px;font-family:'Permanent Marker',cursive;}
+50%{color:Crimson;right:600px;font-family:'Dosis',cursive;}
+75%{color:Coral;left:600px;font-family:'Satisfy',cursive;}
 100%{color:Fuchsia;}
 }
